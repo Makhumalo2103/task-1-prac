@@ -1,0 +1,1 @@
+The purpose of shell is to accept text command translate to system return to human with readable results and translate between human and the computer core, easy way to communicate with the computer, easily accessible
